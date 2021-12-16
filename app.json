@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "FlipACoin",
-    "slug": "FlipACoin",
+    "name": "Siam-Birthday",
+    "slug": "Siam-Birthday",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.sarfaraz71.SiamBirthday"
     },
     "web": {
       "favicon": "./assets/favicon.png"
